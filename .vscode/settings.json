@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "pwduser",
+      "database": "${workspaceFolder:facebook login}/users.db"
+    }
+  ]
+}
